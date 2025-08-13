@@ -10,5 +10,7 @@ A página da biblioteca Triple Peaks é o terceiro projeto no programa de desenv
 - Cards
 - Listas não ordenadas
 - CSS
+- Footer
+- Links
 
 link para acesso: https://ronesjunior.github.io/sprint_3_tripleten/index.html
